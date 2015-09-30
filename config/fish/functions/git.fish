@@ -1,4 +1,5 @@
 # Git Functions
+function gi;   git init; end
 function ga;   git add $argv; end
 function gc;   git commit $argv; end
 function gp;   git push $argv; end
@@ -14,3 +15,4 @@ function gs;   git status -sb; end
 function grs;  git reset --soft $argv; end
 function grs;  git reset --hard $argv; end
 function gcp;  git cherry-pick $argv; end
+function grm;  git rm -f $argv; end
