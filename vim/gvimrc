@@ -1,0 +1,35 @@
+set guifont=Input:h9
+set transparency=10
+set guioptions-=T
+set guioptions-=e
+set guioptions-=r
+set guioptions-=R
+set guioptions-=l
+set guioptions-=L
+set t_Co=256
+set guitablabel=%M\ %t
+
+" Use the Solarized Dark theme
+set background=dark
+colorscheme solarized
+" Don’t blink cursor in normal mode
+set guicursor=n:blinkon0
+" Better line-height
+set linespace=2
+
+" Pressing ,ss will toggle and untoggle spell checking
+map <leader>ss :setlocal spell! spelllang=en_us<cr>
+
+" Shortcuts using <leader>
+map <leader>sn ]s
+map <leader>sp [s
+map <leader>sa zg
+map <leader>s? z=
+
+nnoremap <leader>c <Esc>[s1z=`]a
+vnoremap <leader>c <Esc>[six=']a
+
+autocmd VimEnter * if empty(expand("%")) | startinsert | endif
+
+set fuoptions=maxvert,maxhorz
+au GUIEnter * set fullscreen

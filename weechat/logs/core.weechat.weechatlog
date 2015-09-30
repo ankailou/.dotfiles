@@ -1,0 +1,91 @@
+2015-07-26 21:43:10		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-07-26 21:44:04	=!=	Error: unknown command "/url" (type /help for help)
+2015-07-26 21:44:13		[core]
+2015-07-26 21:44:13		  away     buffer   command  debug    filter   history  key      mouse    plugin   proxy    reload   save     set      upgrade  version  window 
+2015-07-26 21:44:13		  bar      color    cursor   eval     help     input    layout   mute     print    quit     repeat   secure   unset    uptime   wait   
+2015-07-26 21:44:13		[alias]
+2015-07-26 21:44:13		  AAWAY    AME      ANICK    BYE      CHAT     CLOSE    IG       K        LEAVE    MSGBUF   N        REDRAW   SIGNOFF  UB       unalias  W        WI       WW     
+2015-07-26 21:44:13		  alias    AMSG     BEEP     C        CL       EXIT     J        KB       M        MUB      Q        SAY      T        UMODE    V        WC       WII    
+2015-07-26 21:44:13		[charset]
+2015-07-26 21:44:13		  charset
+2015-07-26 21:44:13		[exec]
+2015-07-26 21:44:13		  exec
+2015-07-26 21:44:13		[irc]
+2015-07-26 21:44:13		  admin       ban         dcc         die         info        kick        list        mode        nick        oper        query       rehash      samode      server      squit       topic       userhost    wallchops   whowas    
+2015-07-26 21:44:13		  allchan     connect     dehalfop    disconnect  invite      kickban     lusers      motd        notice      part        quiet       remove      sanick      service     stats       trace       users       wallops   
+2015-07-26 21:44:13		  allpv       ctcp        deop        halfop      ison        kill        map         msg         notify      ping        quote       restart     sapart      servlist    summon      unban       version     who       
+2015-07-26 21:44:13		  allserv     cycle       devoice     ignore      join        links       me          names       op          pong        reconnect   sajoin      saquit      squery      time        unquiet     voice       whois     
+2015-07-26 21:44:13		[logger]
+2015-07-26 21:44:13		  logger
+2015-07-26 21:44:13		[relay]
+2015-07-26 21:44:13		  relay
+2015-07-26 21:44:13		[script]
+2015-07-26 21:44:13		  script
+2015-07-26 21:44:13		[tcl]
+2015-07-26 21:44:13		  tcl
+2015-07-26 21:44:13		[trigger]
+2015-07-26 21:44:13		  trigger
+2015-07-26 21:44:13		[xfer]
+2015-07-26 21:44:13		  me  xfer
+2015-07-26 22:41:40		Option changed: irc.server_default.local_hostname = "forget.me.not"  (default: "")
+2015-07-26 22:43:27	=!=	Error: unknown command "/clear" (type /help for help)
+2015-07-26 22:43:29		[core]
+2015-07-26 22:43:29		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2015-07-26 22:43:29		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2015-07-26 22:43:29		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2015-07-26 22:43:29		[alias]
+2015-07-26 22:43:29		  AAWAY    AMSG     BYE      CL       IG       KB       MSGBUF   Q        SIGNOFF  UMODE    W        WII    
+2015-07-26 22:43:29		  alias    ANICK    C        CLOSE    J        LEAVE    MUB      REDRAW   T        unalias  WC       WW     
+2015-07-26 22:43:29		  AME      BEEP     CHAT     EXIT     K        M        N        SAY      UB       V        WI     
+2015-07-26 22:43:29		[charset]
+2015-07-26 22:43:29		  charset
+2015-07-26 22:43:29		[exec]
+2015-07-26 22:43:29		  exec
+2015-07-26 22:43:29		[irc]
+2015-07-26 22:43:29		  admin       dehalfop    ison        me          oper        remove      servlist    unquiet     whowas    
+2015-07-26 22:43:29		  allchan     deop        join        mode        part        restart     squery      userhost  
+2015-07-26 22:43:29		  allpv       devoice     kick        motd        ping        sajoin      squit       users     
+2015-07-26 22:43:29		  allserv     die         kickban     msg         pong        samode      stats       version   
+2015-07-26 22:43:29		  ban         disconnect  kill        names       query       sanick      summon      voice     
+2015-07-26 22:43:29		  connect     halfop      links       nick        quiet       sapart      time        wallchops 
+2015-07-26 22:43:29		  ctcp        ignore      list        notice      quote       saquit      topic       wallops   
+2015-07-26 22:43:29		  cycle       info        lusers      notify      reconnect   server      trace       who       
+2015-07-26 22:43:29		  dcc         invite      map         op          rehash      service     unban       whois     
+2015-07-26 22:43:29		[logger]
+2015-07-26 22:43:29		  logger
+2015-07-26 22:43:29		[relay]
+2015-07-26 22:43:29		  relay
+2015-07-26 22:43:29		[script]
+2015-07-26 22:43:29		  script
+2015-07-26 22:43:29		[tcl]
+2015-07-26 22:43:29		  tcl
+2015-07-26 22:43:29		[trigger]
+2015-07-26 22:43:29		  trigger
+2015-07-26 22:43:29		[xfer]
+2015-07-26 22:43:29		  me  xfer
+2015-07-26 22:46:42		Option changed: irc.server_default.local_hostname = "forget.me.not"  (default: "")
+2015-07-26 22:46:59	=!=	Error: option "irc.server_default.hostname" not found
+2015-07-26 22:47:23	=!=	Too few arguments for command "/userhost" (help on command: /help userhost)
+2015-07-26 23:30:32		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-07-26 23:31:35	=!=	irc: command "part" must be executed on irc buffer (server or channel)
+2015-07-26 23:31:47	=!=	irc: command "join" must be executed on connected irc server
+2015-07-26 23:32:28	=!=	Error: option "irc.default/local_hostname" not found
+2015-07-26 23:32:33	=!=	Error: option "irc.default.local_hostname" not found
+2015-07-26 23:32:51		Option changed: irc.server_default.local_hostname = ""
+2015-07-26 23:32:57		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-07-26 23:33:02	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-07-27 19:04:41	=!=	Too few arguments for command "/msg" (help on command: /help msg)
+2015-07-27 19:04:54	=!=	Error: unknown command "/hostserv" (type /help for help)
+2015-07-27 19:05:00	=!=	No help available, "hostserv" is not a command or an option
+2015-07-28 17:53:20	=!=	Error: unknown command "/url" (type /help for help)
+2015-08-24 00:43:10	=!=	Warning: /Users/Ankai/.weechat/script.conf, line 46: unknown option for section "scripts": dir = "%h/script"
+2015-08-24 00:43:10		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-08-24 01:02:03		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-08-24 01:45:00		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-08-24 16:45:27		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-09-07 01:20:12		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-09-23 18:36:50		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-09-23 18:36:54	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-09-23 18:37:10		xfer: incoming file from MADAO|IPv6 (2001:1af8:4700:a064:2::, irc.rizon), name: [Commie]_Space_Brothers_-_79_[B6C791DD].mkv, 177151387 bytes (protocol: dcc)
+2015-09-23 18:37:41		xfer: incoming file from MADAO|IPv6 (2001:1af8:4700:a064:2::, irc.rizon), name: [Commie]_Space_Brothers_-_79_[B6C791DD].mkv, 177151387 bytes (protocol: dcc)
+2015-09-23 18:39:17		xfer: incoming file from CR-RALEIGH|NEW (192.254.76.172, irc.rizon), name: [HorribleSubs]_Ore_Monogatari!!_-_24_[1080p].mkv, 549303507 bytes (protocol: dcc)

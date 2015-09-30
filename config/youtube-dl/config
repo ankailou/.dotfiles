@@ -1,0 +1,11 @@
+--continue
+--ignore-errors
+--no-overwrites
+--restrict-filenames
+--audio-format mp3
+
+# file path for downlaods
+-o "~/Downloads/%(title)s-%(id)s.%(ext)s"
+
+# authentication
+--netrc
