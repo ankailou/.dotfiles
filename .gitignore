@@ -42,3 +42,10 @@ ehthumbs.db
 *.rar
 *.tar
 *.zip
+
+################
+# general crap #
+################
+fish_history
+fishd.*
+tmp
