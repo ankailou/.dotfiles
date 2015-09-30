@@ -47,5 +47,7 @@ ehthumbs.db
 # general crap #
 ################
 fish_history
+fish_read_history
 fishd.*
-tmp
+tmp*
+yankring_history*

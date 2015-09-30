@@ -126,16 +126,17 @@ noremap <Up> gk
 nnoremap j gj
 nnoremap k gk
 
-nnoremap <leader>v V`]
-nnoremap <leader>W :%s/\s\+$//<cr>:let @/=''<CR>
-nnoremap <leader>ev :vsplit $MYVIMRC<cr>
-nnoremap <leader>sv :source $MYVIMRC<cr>
+nnoremap <leader>v   V`]
+nnoremap <leader>W   :%s/\s\+$//<cr>:let @/=''<CR>
+nnoremap <leader>ev  :vsplit $MYVIMRC<cr>
+nnoremap <leader>sv  :source $MYVIMRC<cr>
 nnoremap <leader>egv :vsplit ~/.vim/gvimrc<cr>
 nnoremap <leader>sgv :source ~/.vim/gvimrc<cr>
-nnoremap <leader>ef :vsplit ~/.config/fish/config.fish<cr>
-nnoremap <leader>ed :vsplit ~/.vim/custom-dictionary.utf-8.add<cr>
-nnoremap <leader>eg :vsplit ~/.gitconfig<cr>
-nnoremap <leader>et :vsplit ~/.tmux.conf<cr>
+nnoremap <leader>ef  :vsplit ~/.config/fish/config.fish<cr>
+nnoremap <leader>eff :vsplit ~/.config/fish/functions<cr>
+nnoremap <leader>ed  :vsplit ~/.vim/custom-dictionary.utf-8.add<cr>
+nnoremap <leader>eg  :vsplit ~/.gitconfig<cr>
+nnoremap <leader>et  :vsplit ~/.tmux.conf<cr>
 
 nnoremap ; :
 nnoremap <tab> %
