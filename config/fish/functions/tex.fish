@@ -1,4 +1,4 @@
-function texenv --description "enter tex environment"
+function tex --description "enter tex environment"
   if test (count $argv) -eq 0
     # cd into default directory
     cd ~/Documents/doc/tex/

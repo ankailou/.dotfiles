@@ -1,4 +1,4 @@
-function mdenv --description "enter md environment"
+function md --description "enter md environment"
   if test (count $argv) -eq 0
     cd ~/Documents/doc/md
   else

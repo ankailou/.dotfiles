@@ -1,5 +1,5 @@
 # Function for general convenience
-function md; mkdir -p "$argv"; cd "$argv"; end
+function mkd; mkdir -p "$argv"; cd "$argv"; end
 function c;  tr -d '\n' | pbcopy $argv; end
 
 # Running State Functions
