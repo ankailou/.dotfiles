@@ -27,7 +27,15 @@ function tex --description "enter tex environment"
           echo "No template given. Defaulting to template-pset.tex..."
         end
         cp ~/Documents/doc/tex/template/template-$temp.tex $name.tex
-        vim $name.tex
+        echo 'Open with (0) nothing, (1) vim, (2) texshop'
+        read QUERY
+        if [ "$QUERY" = "1" ]
+          vim $name.tex
+        else if [ "$QUERY" = "2" ]
+          open -a texshop $name.tex
+        else
+          echo 'File not opened.'
+        end
       case '*'
         echo ''Error: keep .tex files in the correct directory! Defaulting to base directory...
         tex

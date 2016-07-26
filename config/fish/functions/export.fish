@@ -20,8 +20,8 @@ if status --is-login
   # Python
   set -x PATH $PATH $HOME/.pyenv
   # Go
-  set -x GOPATH $HOME/Documents/dev/go
-  set -x PATH $PATH $GOPATH/bin
+  #set -x GOPATH $HOME/Documents/dev/go
+  #set -x PATH $PATH $GOPATH/bin
   # Android
   set -x ANDROID_HOME /usr/local/opt/android-sdk
   # Editor

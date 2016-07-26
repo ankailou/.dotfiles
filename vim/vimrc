@@ -45,6 +45,7 @@ Plugin 'honza/vim-snippets'
 Plugin 'godlygeek/tabular'
 Plugin 'gmarik/Vundle.vim'
 Plugin 'easymotion/vim-easymotion'
+Plugin 'dag/vim-fish'
 Plugin 'bling/vim-airline'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'SirVer/ultisnips'
@@ -59,8 +60,6 @@ let mapleader = ","
 let g:mapleader = ","
 let maplocalleader = ","
 let g:maplocalleader = ","
-
-noremap U :redo<cr>
 
 set mouse=a
 set ttymouse=xterm2
@@ -108,6 +107,7 @@ inoremap jk <esc>
 nnoremap <Leader>`` :qa!<cr>
 
 nnoremap <F5> :GundoToggle<CR>
+noremap U :redo<cr>
 
 nnoremap <Leader>gb :Gblame<cr>
 nnoremap <Leader>gc :Gcommit<cr>
@@ -276,6 +276,8 @@ autocmd filetype crontab setlocal nobackup nowritebackup
 autocmd VimEnter * if empty(expand("%")) | startinsert | endif
 
 autocmd filetype tex nnoremap <leader>ll :wa \| :!pdflatex %:t<cr>
+
+autocmd filetype fish compiler fish
 
 " ====================[ Rainbow Parentheses Configurations ]====================
 

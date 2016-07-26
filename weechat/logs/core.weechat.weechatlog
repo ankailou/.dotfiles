@@ -89,3 +89,10 @@
 2015-09-23 18:37:10		xfer: incoming file from MADAO|IPv6 (2001:1af8:4700:a064:2::, irc.rizon), name: [Commie]_Space_Brothers_-_79_[B6C791DD].mkv, 177151387 bytes (protocol: dcc)
 2015-09-23 18:37:41		xfer: incoming file from MADAO|IPv6 (2001:1af8:4700:a064:2::, irc.rizon), name: [Commie]_Space_Brothers_-_79_[B6C791DD].mkv, 177151387 bytes (protocol: dcc)
 2015-09-23 18:39:17		xfer: incoming file from CR-RALEIGH|NEW (192.254.76.172, irc.rizon), name: [HorribleSubs]_Ore_Monogatari!!_-_24_[1080p].mkv, 549303507 bytes (protocol: dcc)
+2015-11-27 18:49:14		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-12-12 03:35:30		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-12-12 03:38:11		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-12-12 03:38:25	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-12-12 03:40:14	=!=	Error: WeeChat main buffer can't be closed
+2015-12-17 06:41:36		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer
+2015-12-30 15:46:55		Plugins loaded: alias, charset, exec, fifo, irc, logger, relay, script, tcl, trigger, xfer

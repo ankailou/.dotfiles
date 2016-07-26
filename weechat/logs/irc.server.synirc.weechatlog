@@ -9938,3 +9938,243 @@
 2015-09-08 09:10:31	--	User mode [+ix] by seishi_
 2015-09-08 09:10:31	--	[Link]: #pokemon has become full, so you are automatically being transferred to the linked channel #smogon
 2015-09-08 09:10:31	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2015-11-27 18:49:21	--	irc: connecting to server irc.synirc.net/6667...
+2015-11-27 18:49:22	--	irc: connected to irc.synirc.net/6667 (23.239.20.207)
+2015-11-27 18:49:22	--	logik.ca.us.synirc.net: *** Looking up your hostname...
+2015-11-27 18:49:22	--	logik.ca.us.synirc.net: *** Checking ident...
+2015-11-27 18:49:23	--	logik.ca.us.synirc.net: *** Found your hostname
+2015-11-27 18:49:28	--	logik.ca.us.synirc.net: *** No ident response; username prefixed with ~
+2015-11-27 18:49:28	--	Welcome to the synIRC IRC Network seishi!~seishi@cpe-184-57-31-104.columbus.res.rr.com
+2015-11-27 18:49:28	--	Your host is logik.ca.us.synirc.net, running version Unreal3.2.10.4
+2015-11-27 18:49:28	--	This server was created Mon Mar 30 2015 at 09:36:38 UTC
+2015-11-27 18:49:28	--	logik.ca.us.synirc.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2015-11-27 18:49:28	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2015-11-27 18:49:28	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2015-11-27 18:49:28	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2015-11-27 18:49:28	--	There are 27 users and 6415 invisible on 16 servers
+2015-11-27 18:49:28	--	27 :operator(s) online
+2015-11-27 18:49:28	--	1 :unknown connection(s)
+2015-11-27 18:49:28	--	2431 :channels formed
+2015-11-27 18:49:28	--	I have 923 clients and 0 servers
+2015-11-27 18:49:28	--	923 1354 :Current local users 923, max 1354
+2015-11-27 18:49:28	--	6442 8248 :Current global users 6442, max 8248
+2015-11-27 18:49:28	--	- logik.ca.us.synirc.net Message of the Day -
+2015-11-27 18:49:28	--	- 1/1/2015 0:00
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	-                       IIIII RRRRRR   CCCCC
+2015-11-27 18:49:28	--	-  sss  yy   yy nn nnn   III  RR   RR CC    C
+2015-11-27 18:49:28	--	- s     yy   yy nnn  nn  III  RRRRRR  CC
+2015-11-27 18:49:28	--	-  sss   yyyyyy nn   nn  III  RR  RR  CC    C
+2015-11-27 18:49:28	--	-     s      yy nn   nn IIIII RR   RR  CCCCC
+2015-11-27 18:49:28	--	-  sss   yyyyy         logik.ca.us.synirc.net
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	- Welcome to synIRC!
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	- By connecting to synIRC, you agree to abide by the charter
+2015-11-27 18:49:28	--	- which can be found at https://synirc.net/charter
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	- All servers also run proxy scanners. By connecting, you
+2015-11-27 18:49:28	--	- consent to have your IP address scanned for open proxies.
+2015-11-27 18:49:28	--	- These IP scans will originate from the IP of the server you
+2015-11-27 18:49:28	--	- connected to.
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	- If you require network assistance, please join #help.
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	- Behind a firewall? synIRC is also reachable at the address
+2015-11-27 18:49:28	--	- port80.synirc.net, port 80 and 443 (SSL).
+2015-11-27 18:49:28	--	-
+2015-11-27 18:49:28	--	End of /MOTD command.
+2015-11-27 18:49:28	--	User mode [+ix] by seishi
+2015-11-27 18:49:28	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2015-11-27 19:53:22	=!=	irc: reading data on socket: error 60 Operation timed out
+2015-11-27 19:53:22	--	irc: disconnecting from server...
+2015-11-27 19:53:22	--	irc: disconnected from server
+2015-11-27 19:53:22	--	irc: reconnecting to server in 10 seconds
+2015-11-27 19:53:32	--	irc: reconnecting to server...
+2015-11-27 19:53:32	--	irc: connecting to server irc.synirc.net/6667...
+2015-11-27 19:54:02	=!=	irc: address "irc.synirc.net" not found
+2015-11-27 19:54:02	=!=	irc: error: nodename nor servname provided, or not known
+2015-11-27 19:54:02	--	irc: reconnecting to server in 20 seconds
+2015-11-27 19:54:22	--	irc: reconnecting to server...
+2015-11-27 19:54:22	--	irc: connecting to server irc.synirc.net/6667...
+2015-11-27 19:54:34	=!=	irc: address "irc.synirc.net" not found
+2015-11-27 19:54:34	=!=	irc: error: nodename nor servname provided, or not known
+2015-11-27 19:54:34	--	irc: reconnecting to server in 40 seconds
+2015-11-27 19:55:14	--	irc: reconnecting to server...
+2015-11-27 19:55:14	--	irc: connecting to server irc.synirc.net/6667...
+2015-11-27 19:55:15	--	irc: connected to irc.synirc.net/6667 (208.88.6.198)
+2015-11-27 19:55:15	--	toronto.on.ca.synirc.net: *** Looking up your hostname...
+2015-11-27 19:55:15	--	toronto.on.ca.synirc.net: *** Checking ident...
+2015-11-27 19:55:15	--	toronto.on.ca.synirc.net: *** Found your hostname
+2015-11-27 19:55:20	--	toronto.on.ca.synirc.net: *** No ident response; username prefixed with ~
+2015-11-27 19:55:20	--	Welcome to the synIRC IRC Network seishi!~seishi@cpe-184-57-31-104.columbus.res.rr.com
+2015-11-27 19:55:20	--	Your host is toronto.on.ca.synirc.net, running version Unreal3.2.10.4
+2015-11-27 19:55:20	--	This server was created Tue Sep 30 2014 at 13:01:25 EDT
+2015-11-27 19:55:20	--	toronto.on.ca.synirc.net Unreal3.2.10.4 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2015-11-27 19:55:20	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2015-11-27 19:55:20	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2015-11-27 19:55:20	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2015-11-27 19:55:20	--	There are 27 users and 6421 invisible on 16 servers
+2015-11-27 19:55:20	--	27 :operator(s) online
+2015-11-27 19:55:20	--	1 :unknown connection(s)
+2015-11-27 19:55:20	--	2432 :channels formed
+2015-11-27 19:55:20	--	I have 1040 clients and 0 servers
+2015-11-27 19:55:20	--	1040 1260 :Current local users 1040, max 1260
+2015-11-27 19:55:20	--	6448 8248 :Current global users 6448, max 8248
+2015-11-27 19:55:20	--	- toronto.on.ca.synirc.net Message of the Day -
+2015-11-27 19:55:20	--	- 30/9/2014 16:30
+2015-11-27 19:55:20	--	-                                    ooooo ooooooooo.     .oooooo.
+2015-11-27 19:55:20	--	-                                    `888' `888   `Y88.  d8P'  `Y8b
+2015-11-27 19:55:20	--	-    .oooo.o oooo    ooo ooo. .oo.    888   888   .d88' 888
+2015-11-27 19:55:20	--	-   d88(  "8  `88.  .8'  `888P"Y88b   888   888ooo88P'  888
+2015-11-27 19:55:20	--	-   `"Y88b.    `88..8'    888   888   888   888`88b.    888
+2015-11-27 19:55:20	--	-   o.  )88b    `888'     888   888   888   888  `88b.  `88b    ooo
+2015-11-27 19:55:20	--	-   8""888P'     .8'     o888o o888o o888o o888o  o888o  `Y8bood8P'
+2015-11-27 19:55:22	--	-            .o..P'
+2015-11-27 19:55:22	--	-            `Y8P'
+2015-11-27 19:55:22	--	-                                                            .
+2015-11-27 19:55:22	--	-                                                            |
+2015-11-27 19:55:22	--	-                                                           < >
+2015-11-27 19:55:22	--	-                                                            |
+2015-11-27 19:55:22	--	-                                                          (^ ^)
+2015-11-27 19:55:22	--	-                                                           `|`
+2015-11-27 19:55:22	--	-                                ______                      |
+2015-11-27 19:55:22	--	-                      .-,__,-. |""""""|                     |
+2015-11-27 19:55:22	--	-                      | ]""[ | |""""""|       ,.,__         |
+2015-11-27 19:55:22	--	-                      | |""| | |""""""|     /`.     ` ;     |
+2015-11-27 19:55:22	--	-                      | |""| | |""""""|   /`.  '.       ;   |
+2015-11-27 19:55:22	--	-                      | |""| | |""""""| /`.  '.  .       ; /^\
+2015-11-27 19:55:22	--	-  ----------------------'-'--'-'-'------''---'---'--'-------'---'----
+2015-11-27 19:55:22	--	-
+2015-11-27 19:55:22	--	-   toronto.on.ca.synirc.net (ports: 6660-9, 7000, ssl: +6697, +7001)
+2015-11-27 19:55:22	--	-   This server is located at 905 King Street W, Toronto, ON, Canada.
+2015-11-27 19:55:22	--	-     At the corner of King St and Strachan Ave in Liberty Village.
+2015-11-27 19:55:22	--	-
+2015-11-27 19:55:22	--	-     admin: slushey <slushey@synirc.net>
+2015-11-27 19:55:22	--	-   coadmin: basket <basket@synirc.net>
+2015-11-27 19:55:22	--	-     ircop: Lioness <lioness@synirc.net>
+2015-11-27 19:55:22	--	-            minusX <minusx@synirc.net>
+2015-11-27 19:55:22	--	-
+2015-11-27 19:55:22	--	-       url: http://www.synirc.net
+2015-11-27 19:55:22	--	-    forums: http://forum.synirc.net
+2015-11-27 19:55:22	--	-   support: #help
+2015-11-27 19:55:22	--	-
+2015-11-27 19:55:22	--	-  -------------------------------------------------------------------
+2015-11-27 19:55:22	--	-
+2015-11-27 19:55:22	--	- synIRC.net will scan your IP for open proxies upon connection to our
+2015-11-27 19:55:22	--	- services. You must be 18 or older to connect and chat on our services, or
+2015-11-27 19:55:22	--	- have parental consent. synIRC.net and its affiliates are not responsible
+2015-11-27 19:55:22	--	- for any bodily or mental harm that could possibly come from using its
+2015-11-27 19:55:22	--	- services. synIRC.net is not responsible for any data received or sent
+2015-11-27 19:55:22	--	- out to our clients. By connecting, you consent to have logging of your
+2015-11-27 19:55:22	--	- conversations done by other clients and are also bound to the rules and
+2015-11-27 19:55:22	--	- regulations that can be found at http://www.synirc.net/charter/
+2015-11-27 19:55:22	--	End of /MOTD command.
+2015-11-27 19:55:22	--	User mode [+ix] by seishi
+2015-11-27 19:55:22	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2015-12-12 03:35:55	--	irc: connecting to server irc.synirc.net/6667...
+2015-12-12 03:35:55	--	irc: connected to irc.synirc.net/6667 (23.105.74.61)
+2015-12-12 03:35:55	--	avarice.wa.us.synirc.net: *** Looking up your hostname...
+2015-12-12 03:35:55	--	avarice.wa.us.synirc.net: *** Checking ident...
+2015-12-12 03:35:55	--	avarice.wa.us.synirc.net: *** Found your hostname
+2015-12-12 03:36:00	--	avarice.wa.us.synirc.net: *** No ident response; username prefixed with ~
+2015-12-12 03:36:00	--	Welcome to the synIRC IRC Network seishi!~seishi@cpe-184-57-31-104.columbus.res.rr.com
+2015-12-12 03:36:00	--	Your host is avarice.wa.us.synirc.net, running version Unreal3.2.10.2
+2015-12-12 03:36:00	--	This server was created Tue Jan 14 2014 at 15:13:49 PST
+2015-12-12 03:36:00	--	avarice.wa.us.synirc.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2015-12-12 03:36:00	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2015-12-12 03:36:00	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2015-12-12 03:36:00	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2015-12-12 03:36:00	--	There are 26 users and 5940 invisible on 16 servers
+2015-12-12 03:36:00	--	27 :operator(s) online
+2015-12-12 03:36:00	--	2422 :channels formed
+2015-12-12 03:36:00	--	I have 629 clients and 0 servers
+2015-12-12 03:36:00	--	629 1494 :Current local users 629, max 1494
+2015-12-12 03:36:00	--	5966 8248 :Current global users 5966, max 8248
+2015-12-12 03:36:00	--	- avarice.wa.us.synirc.net Message of the Day -
+2015-12-12 03:36:00	--	- 3/7/2014 17:18
+2015-12-12 03:36:00	--	-                           ___ ____   ____
+2015-12-12 03:36:00	--	-           ___ _   _ _ __ |_ _|  _ \ / ___|
+2015-12-12 03:36:00	--	-          / __| | | | '_ \ | || |_) | |
+2015-12-12 03:36:00	--	-          \__ \ |_| | | | || ||  _ <| |___
+2015-12-12 03:36:00	--	-          |___/\__, |_| |_|___|_| \_\\____|
+2015-12-12 03:36:00	--	-               |___/      Seattle, WA, USA
+2015-12-12 03:36:00	--	-
+2015-12-12 03:36:00	--	- Server     : avarice.wa.us.synirc.net
+2015-12-12 03:36:00	--	- Ports      : 6660-6669, 7000
+2015-12-12 03:36:00	--	- SSL Ports  : 6697, 7001
+2015-12-12 03:36:00	--	- Admin      : Sony     (sony@synirc.net)
+2015-12-12 03:36:00	--	- Coadmin    : setsukun (setsukun@synirc.net)
+2015-12-12 03:36:00	--	- IRCops     : Kafei    (kafei@synirc.net)
+2015-12-12 03:36:00	--	-            : Pak000   (pak000@synirc.net)
+2015-12-12 03:36:00	--	-
+2015-12-12 03:36:00	--	- Please visit us online at http://www.synirc.net/
+2015-12-12 03:36:00	--	- For network related assistance please join #help
+2015-12-12 03:36:00	--	- For network wide bans and other issues email helpcom@synirc.net
+2015-12-12 03:36:00	--	-
+2015-12-12 03:36:00	--	- synIRC.net will scan your IP for open proxies upon connection to our
+2015-12-12 03:36:00	--	- services. You must be 18 or older to connect and chat on our services, or
+2015-12-12 03:36:00	--	- have parental consent. synIRC.net and its affiliates are not responsible
+2015-12-12 03:36:00	--	- for any bodily or mental harm that could possibly come from using its
+2015-12-12 03:36:00	--	- services. synIRC.net is not responsible for any data received or sent
+2015-12-12 03:36:00	--	- out to our clients. By connecting, you consent to have logging of your
+2015-12-12 03:36:00	--	- conversations done by other clients and are also bound to the rules and
+2015-12-12 03:36:00	--	- regulations that can be found at http://www.synirc.net/charter/
+2015-12-12 03:36:00	--	End of /MOTD command.
+2015-12-12 03:36:00	--	User mode [+ix] by seishi
+2015-12-12 03:36:00	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2015-12-12 03:36:30	--	#smogon: You need a registered nick to join that channel.
+2015-12-12 03:36:52	--	#smogon: You need a registered nick to join that channel.
+2015-12-12 03:38:39	--	irc: connecting to server irc.synirc.net/6667...
+2015-12-12 03:38:39	--	irc: connected to irc.synirc.net/6667 (23.105.74.61)
+2015-12-12 03:38:39	--	avarice.wa.us.synirc.net: *** Looking up your hostname...
+2015-12-12 03:38:39	--	avarice.wa.us.synirc.net: *** Found your hostname (cached)
+2015-12-12 03:38:39	--	avarice.wa.us.synirc.net: *** Checking ident...
+2015-12-12 03:38:45	--	avarice.wa.us.synirc.net: *** No ident response; username prefixed with ~
+2015-12-12 03:38:45	--	Welcome to the synIRC IRC Network seishi!~seishi@cpe-184-57-31-104.columbus.res.rr.com
+2015-12-12 03:38:45	--	Your host is avarice.wa.us.synirc.net, running version Unreal3.2.10.2
+2015-12-12 03:38:45	--	This server was created Tue Jan 14 2014 at 15:13:49 PST
+2015-12-12 03:38:45	--	avarice.wa.us.synirc.net Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+2015-12-12 03:38:45	--	CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 :are supported by this server
+2015-12-12 03:38:45	--	MAXTARGETS=20 WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=synIRC CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT :are supported by this server
+2015-12-12 03:38:45	--	STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+2015-12-12 03:38:45	--	There are 26 users and 5937 invisible on 16 servers
+2015-12-12 03:38:45	--	27 :operator(s) online
+2015-12-12 03:38:45	--	2414 :channels formed
+2015-12-12 03:38:45	--	I have 631 clients and 0 servers
+2015-12-12 03:38:45	--	631 1494 :Current local users 631, max 1494
+2015-12-12 03:38:45	--	5963 8248 :Current global users 5963, max 8248
+2015-12-12 03:38:45	--	- avarice.wa.us.synirc.net Message of the Day -
+2015-12-12 03:38:45	--	- 3/7/2014 17:18
+2015-12-12 03:38:45	--	-                           ___ ____   ____
+2015-12-12 03:38:45	--	-           ___ _   _ _ __ |_ _|  _ \ / ___|
+2015-12-12 03:38:45	--	-          / __| | | | '_ \ | || |_) | |
+2015-12-12 03:38:45	--	-          \__ \ |_| | | | || ||  _ <| |___
+2015-12-12 03:38:45	--	-          |___/\__, |_| |_|___|_| \_\\____|
+2015-12-12 03:38:45	--	-               |___/      Seattle, WA, USA
+2015-12-12 03:38:45	--	-
+2015-12-12 03:38:45	--	- Server     : avarice.wa.us.synirc.net
+2015-12-12 03:38:45	--	- Ports      : 6660-6669, 7000
+2015-12-12 03:38:45	--	- SSL Ports  : 6697, 7001
+2015-12-12 03:38:45	--	- Admin      : Sony     (sony@synirc.net)
+2015-12-12 03:38:45	--	- Coadmin    : setsukun (setsukun@synirc.net)
+2015-12-12 03:38:45	--	- IRCops     : Kafei    (kafei@synirc.net)
+2015-12-12 03:38:45	--	-            : Pak000   (pak000@synirc.net)
+2015-12-12 03:38:45	--	-
+2015-12-12 03:38:45	--	- Please visit us online at http://www.synirc.net/
+2015-12-12 03:38:45	--	- For network related assistance please join #help
+2015-12-12 03:38:45	--	- For network wide bans and other issues email helpcom@synirc.net
+2015-12-12 03:38:45	--	-
+2015-12-12 03:38:45	--	- synIRC.net will scan your IP for open proxies upon connection to our
+2015-12-12 03:38:45	--	- services. You must be 18 or older to connect and chat on our services, or
+2015-12-12 03:38:45	--	- have parental consent. synIRC.net and its affiliates are not responsible
+2015-12-12 03:38:45	--	- for any bodily or mental harm that could possibly come from using its
+2015-12-12 03:38:45	--	- services. synIRC.net is not responsible for any data received or sent
+2015-12-12 03:38:45	--	- out to our clients. By connecting, you consent to have logging of your
+2015-12-12 03:38:45	--	- conversations done by other clients and are also bound to the rules and
+2015-12-12 03:38:45	--	- regulations that can be found at http://www.synirc.net/charter/
+2015-12-12 03:38:45	--	End of /MOTD command.
+2015-12-12 03:38:45	--	User mode [+ix] by seishi
+2015-12-12 03:38:45	--	Global (services@services.synirc.net): [Logon News - Oct 09 2014] Follow us on Twitter @synIRC - http://twitter.com/synirc
+2015-12-12 03:39:17	--	#smogon: You need a registered nick to join that channel.

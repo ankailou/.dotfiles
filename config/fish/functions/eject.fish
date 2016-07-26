@@ -1,7 +1,7 @@
 function eject --description 'eject volume from computer'
   if test (count $argv) -eq 0
     echo 'error: provide name of volume'
-  else if [ "$argv[1]" = [--all] ]
+  else if [ "$argv[1]" = "--all" ]
     for drive in /Volumes/*
       diskutil unmount $drive
     end

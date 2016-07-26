@@ -1,4 +1,4 @@
-function pst --description "archive/load teams to Google Drive"
+function team --description "archive/load teams to Google Drive"
   if test (count $argv) -eq 0
     # prompt user for more input
     echo 'No arguments specified. Please input action (archive, load [gen, [gen,]])'
